@@ -1,5 +1,5 @@
-- 2024ICPC国际大学生程序设计竞赛（上海站）（杭州站）—— 银奖
-- sadasdsa
-- 123
-
-asdajkdljsd
+- <p style="text-align:left;">2024ICPC国际大学生程序设计竞赛（上海站）（杭州站）<span style="float:right;">银奖</span></p>
+- <p style="text-align:left;">2022、2024CCPC中国大学生程序设计竞赛（广州站）（郑州站）   <span style="float:right;">银奖</span></p>
+- <p style="text-align:left;">2022、2023、2024ICPC国际大学生程序设计竞赛 / 亚洲总决赛（澳门站）（西安站）<span style="float:right;">铜奖</span></p>
+- <p style="text-align:left;">2021CCPC中国大学生程序设计竞赛（威海站） <span style="float:right;">铜奖</span></p>
+- <p style="text-align:left;">第十四届蓝桥杯C/C++A组全国总决赛/河南省省赛 <span style="float:right;">二等奖/一等奖</span></p>
