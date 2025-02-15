@@ -1,14 +1,10 @@
-
-
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
 #### Email
 - zhijie.liang@foxmail.com
-
+### phone number
+- 132-2392-3173
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+郑州大学 <div style="text-align: right;"> 2021.9 ~ 2025.7 </div>
+信息安全 本科 网络空间安全学院
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
