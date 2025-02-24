@@ -9,7 +9,7 @@ Python, PyTorch, Matplotlib, NumPy
 - 构建了一个包含四个全连接层的神经网络，使用ReLU激活函数和Log-Softmax输出。
 - 使用Adam优化器和负对数似然损失函数（NLLLoss）进行模型训练。
 - 使用PyTorch的数据加载工具（DataLoader）对MNIST数据集进行批量加载和预处理。
-- 通过2轮训练和评估，测试集准确率逐步提高。
+- 通过多轮训练和评估，测试集准确率逐步提高。
 - 通过Matplotlib展示模型预测结果，并进行了可视化分析。
 #### 成果
 - 成功构建并训练了一个MLP模型，在MNIST数据集上实现了手写数字识别。
