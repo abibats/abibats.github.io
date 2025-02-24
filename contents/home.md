@@ -3,7 +3,7 @@
 #### phone number
 - 132-2392-3173
 #### Education
-<p style="text-align:left;">郑州大学<span style="float:right;">2021.9 ~ 2025.7</span></p>
+<p style="text-align:left;">郑州大学&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;信息安全<span style="float:right;">2021.9 ~ 2025.7</span></p>
 
 #### Graduate entrance examination results
 总分：371 \
