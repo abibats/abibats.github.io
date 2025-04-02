@@ -2,11 +2,13 @@
 - zhijie.liang@foxmail.com
 #### phone number
 - 132-2392-3173
-#### Graduate entrance examination results
-总分：371 \
-政治：60 &nbsp;&nbsp;&nbsp; 英语: 70&nbsp;&nbsp;&nbsp;  数学：128 &nbsp;&nbsp;&nbsp;408：113 
 
 #### Education
+
+<p style="text-align:left;">复旦大学 [985] [211] [双一流]<span style="float:right;">2025.9 ~ 2028.7(预计)</span></p>
+人工智能(NLP实验室) 硕士研究生 计算机科学技术学院
+- 已加入复旦大学NLP实验室
+
 <p style="text-align:left;">郑州大学 [211] [双一流]<span style="float:right;">2021.9 ~ 2025.7</span></p>
 信息安全 本科 网络空间安全学院
 
