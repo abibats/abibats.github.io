@@ -7,6 +7,7 @@
 
 <p style="text-align:left;">复旦大学 [985] [211] [双一流]<span style="float:right;">2025.9 ~ 2028.7(预计)</span></p>
 人工智能(NLP实验室) 硕士研究生 计算机科学技术学院
+
 - 已加入复旦大学NLP实验室
 
 <p style="text-align:left;">郑州大学 [211] [双一流]<span style="float:right;">2021.9 ~ 2025.7</span></p>
