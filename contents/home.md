@@ -6,7 +6,7 @@
 #### Education
 
 <p style="text-align:left;">复旦大学 [985] [211] [双一流]<span style="float:right;">2025.9 ~ 2028.7(预计)</span></p>
-电子信息&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士研究生&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学技术学院
+电子信息&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士研究生&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算与智能创新学院
 
 
 <p style="text-align:left;">郑州大学 [211] [双一流]<span style="float:right;">2021.9 ~ 2025.7</span></p>
